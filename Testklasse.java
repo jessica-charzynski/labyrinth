@@ -1,5 +1,5 @@
 /**
- * ESA 6, REK-E1 - Labyrinth
+ * REK-E1 - Labyrinth
  * Testklasse für die Klasse Labyrinth
  *
  * @author Jessica Charzynski (s42891@bht-hochschule.de)
