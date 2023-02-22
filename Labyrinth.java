@@ -1,6 +1,6 @@
 /**
  * REK-E1 - Labyrinth
- * Diese Klasse erzeugt Labyrinthe und löst sie anschließend rekursiv
+ * Diese Klasse erzeugt ein Labyrinth und löst es anschließend rekursiv
  *
  * @author Jessica Charzynski (s42891@bht-hochschule.de)
  * @version 1.0, 06/2022
