@@ -40,8 +40,8 @@ public class Labyrinth {
             
     };
 	
-	// Auswahl eines Testlabyrinths
-	private char[][] lab = testLabyrinth1;
+    // Auswahl eines Testlabyrinths
+    private char[][] lab = testLabyrinth1;
 
     // Initialisierung der Variablen
     private int x;
